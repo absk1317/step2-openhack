@@ -1,0 +1,9 @@
+{
+	"name": "sample",
+	"author": "Abhishek Verma <absk1317@gmail.com>",
+	"description": "Azure function",
+	"license": "MIT",
+	"dependencies": {
+		"request": "^2.88.0"
+	}
+}
